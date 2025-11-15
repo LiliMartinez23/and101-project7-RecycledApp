@@ -18,11 +18,11 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] App contains a RecyclerView that displays a list of scrollable data
-- [ ] App displays at least two (2) pieces of data for each RecyclerView item
-- [ ] Use a downloadable font with custom color and size
-- [ ] Modify the theme of the app in `themes.xml`
-- [ ] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
