@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CharacterNameText">
+        <item name="android:fontFamily">@font/bangers</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/teal_700</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SpeciesText">
+        <item name="android:fontFamily">@font/bangers</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/purple_500</item>
+    </style>
+</resources>
